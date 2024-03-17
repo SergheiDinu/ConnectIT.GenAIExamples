@@ -1,0 +1,3 @@
+numpy==1.25.1
+transformers
+datasets===2.13.1
